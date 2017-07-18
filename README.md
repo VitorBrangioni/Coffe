@@ -1,7 +1,7 @@
 # Coffee
 Selling physical products - LarryUllman
 
-**O E-commerce** ***Coffe*** **tera esses recursos principais:**
+**O E-commerce** ***Coffee*** **tera esses recursos principais:**
 
 - Catalogo para navegacao;
 - Itens em promocao;
