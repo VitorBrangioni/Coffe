@@ -1,4 +1,4 @@
-# Coffe
+# Coffee
 Selling physical products - LarryUllman
 
 **O E-commerce** ***Coffe*** **tera esses recursos principais:**
